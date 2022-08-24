@@ -130,7 +130,7 @@
 {"key":"mtv_xp_奈飞中文","name":"奈飞中文","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mtv.weetai.cn/xpath/奈飞中文.json"},
 {"key":"mtv_pc_悟空影视","name":"悟空影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/hhz522/tvbox-api@cdn/sites/悟空影视.json"},
 {"key":"mtv_zh_暖光影视","name":"暖光影视","type":3,"api":"csp_AppYsV2"       ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
-{"key":"mtv_zh_刺猬影视","name":"刺猬影视","type":3,"api":"csp_AppYsV2"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/hhz522/tvbox-api@cdn/sites/刺猬影视.json"}],
+//{"key":"mtv_zh_刺猬影视","name":"刺猬影视","type":3,"api":"csp_AppYsV2"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/hhz522/tvbox-api@cdn/sites/刺猬影视.json"}],
 
 //解析接口
 
